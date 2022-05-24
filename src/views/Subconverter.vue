@@ -282,6 +282,15 @@ export default {
             ]
           },
           {
+            label: "默认",
+            options: [
+              {
+                label: "不选，由接口提供方提供",
+                value: ""
+              }
+            ]
+          },
+          {
             label: "ACL4SSR",
             options: [
               {
